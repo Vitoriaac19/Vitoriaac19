@@ -32,7 +32,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Vitoriaac19/Vitoriaac19/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Vitoriaac19/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
